@@ -4,6 +4,8 @@
 ### Donal Egan's entry for for TCD Machine Learning (course CS7CS4 2019/2020) Kaggle Competition.
 ### The entry finished in the top 6% of 320 entries. 
 
+## N.B. if you are having trouble viewing the notebook please use the nbviewer link:  https://nbviewer.jupyter.org/github/doegan32/TCD-Machine-Learning-Kaggle-Competition/blob/master/kagglecomp10.ipynb 
+
 To run the code in the jupyter-notebook the following libraries are required:
 1. numpy;
 2. pandas;
