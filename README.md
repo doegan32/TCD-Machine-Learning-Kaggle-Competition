@@ -1,7 +1,7 @@
 # Trinity College Dublin - Machine Learning Kaggle Competition
 ## Goal: Predict the income
 
-#### Donal Egan's entry for for TCD Machine Learning (course CS7CS4 2019/2020) Kaggle Competition.
+#### Donal Egan's entry for TCD Machine Learning (course CS7CS4 2019/2020) Kaggle Competition 1.
 #### The entry finished in the top 6% of 320 entries. 
 
 ### N.B. if you are having trouble viewing the notebook please use the nbviewer link:  https://nbviewer.jupyter.org/github/doegan32/TCD-Machine-Learning-Kaggle-Competition/blob/master/kagglecomp10.ipynb 
